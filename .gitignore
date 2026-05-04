@@ -1,4 +1,4 @@
 __pycache__/
 *.pyc
-*.m4a
 *.wav
+# remove m4a from ignore to include voice samples
